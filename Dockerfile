@@ -1,0 +1,2 @@
+from gcr.io/knative-releases/knative.dev/eventing/cmd/mtbroker/ingress@sha256:b856d2e4184f5cd5fe2716a89d39a055b776f0e717206b5f612beaa9c93fd60e
+MAINTAINER alufer8dock
